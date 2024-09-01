@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vinni
+- 👋 Hi, I’m Nico
 - 👀 I’m interested in books, films, internet, ...
 - 🌱 I'm currently learning how to create a website
 - 💞️ I'm looking to collaborate on programming codes
